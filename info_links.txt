@@ -1,0 +1,9 @@
+News :
+https://newsapi.org/
+
+Weather :
+https://openweathermap.org/forecast5
+https://home.openweathermap.org/api_keys
+
+Facebook :
+https://developers.facebook.com/async/registration/dialog/?src=default

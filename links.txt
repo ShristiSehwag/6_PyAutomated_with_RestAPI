@@ -1,6 +1,0 @@
-News :
-https://newsapi.org/
-
-Weather :
-https://openweathermap.org/forecast5
-https://home.openweathermap.org/api_keys

@@ -1,0 +1,13 @@
+1. access facebook profile data
+2. login to your FB account
+3. create developer account on facebook
+4. create an app
+5. create access tocken
+6. Graph api explorer
+7. generate access token
+8. the graph api explorer can be directly used or the task can be done using python
+9. Add permision for post and photos access
+9. now copy the *access tocken*
+10 submit on interface
+11 you get a view with name and id
+12 go to get code and fetch the cURL
