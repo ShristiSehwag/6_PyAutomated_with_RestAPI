@@ -12,6 +12,7 @@ Moreover, API automation becomes even more critical in an API-first development 
 1. Get News | get_news.py
 2. Fetch Weather Forecast | weather_forecast.py
 3. Create Own Currency API | currency_api_own.py
+4. Facebook data API | facebook_data_api.py
 
 
 ## SAMPLE Explanation: Get News
