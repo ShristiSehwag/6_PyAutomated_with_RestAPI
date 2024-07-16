@@ -1,4 +1,4 @@
-# 6. PyAutomated GetNews RestAPI
+# 6. PyAutomated with RestAPI
 API automation testing plays a crucial role in ensuring the robustness and reliability of software applications. 
 
 APIs serve as the building blocks of software in this approach, and their quality directly impacts the application’s overall performance. 
@@ -7,8 +7,14 @@ API automation allows for efficient validation of these APIs, ensuring they func
 
 Moreover, API automation becomes even more critical in an API-first development approach, where applications are built by linking several different APIs.
 
-## Code:
-Retrieves news articles related to a specific topic (in this case, 'space') from the specified date range using the News API.
+## Codes:
+
+1. Get News
+2. Fetch Weather Forecast
+3. Create Own Currency API
+
+
+## SAMPLE Explanation: Get News
 
 ### API Request:
 
