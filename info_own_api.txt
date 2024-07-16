@@ -1,0 +1,4 @@
+#  build your own API
+#  since api is not free, you need to build your own API
+# api is an application that is used to access data from other applications
+# here we use flask which is a python framework
