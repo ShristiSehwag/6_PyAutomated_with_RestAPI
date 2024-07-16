@@ -1,0 +1,3 @@
+news : 17fb352c8f7949a6922ed1c7833fb8aa
+weather : 
+ad2e5822b8b019f5e96d8155d5ee38ff
