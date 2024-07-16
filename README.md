@@ -9,9 +9,9 @@ Moreover, API automation becomes even more critical in an API-first development 
 
 ## Codes:
 
-1. Get News
-2. Fetch Weather Forecast
-3. Create Own Currency API
+1. Get News | get_news.py
+2. Fetch Weather Forecast | weather_forecast.py
+3. Create Own Currency API | currency_api_own.py
 
 
 ## SAMPLE Explanation: Get News
